@@ -1,4 +1,4 @@
-# todoistreport
+todoistreport
 ===============================
 
 todoistのacitivtyLogを年月指定で取得して出力するツール
